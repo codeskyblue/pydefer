@@ -2,9 +2,9 @@
 
 en: golang defer implements in python.
 
-zh: golang的defer在python中的实现
+zh: golang鐨刣efer鍦╬ython涓殑瀹炵幇
 
-## 使用举例
+## 浣跨敤涓句緥
 
     @pydefer.wrapper
     def hi(name = 'mei zi'):
